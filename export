@@ -1,0 +1,7 @@
+export DBUSER="pguser"
+export DBPASSWORD="pgpswd"
+export DBHOST="192.168.2.60"
+export DBPORT="5432"
+export DBNAME="anomalies"
+export GRPCHOST="localhost"
+export GRPCPORT="9000"
